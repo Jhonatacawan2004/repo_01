@@ -1,4 +1,9 @@
 minha primeira anotacao!
 segunda anotação
 
+acho que esssa modificação é correto
+<<<<<<< HEAD
 33333333333333
+=======
+acho que esssa modificação é correto
+>>>>>>> desvio
